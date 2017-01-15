@@ -7,8 +7,8 @@
     <ProjectGuid>{322CBAD6-9ADF-4818-BC00-E248738D6237}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SMTPPayslipDownloader</RootNamespace>
-    <AssemblyName>SMTPPayslipDownloader</AssemblyName>
+    <RootNamespace>IMAPPayslipDownloader</RootNamespace>
+    <AssemblyName>IMAPPayslipDownloader</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

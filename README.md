@@ -1,1 +1,1 @@
-# SMTPPayslipDownloader
+# IMAPPayslipDownloader

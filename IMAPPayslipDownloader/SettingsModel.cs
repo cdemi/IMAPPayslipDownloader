@@ -1,4 +1,4 @@
-﻿namespace SMTPPayslipDownloader
+﻿namespace IMAPPayslipDownloader
 {
     public class SettingsModel
     {
