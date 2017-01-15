@@ -3,5 +3,7 @@
   "Username": "email@host.com",
   "Password": "Password",
   "Port": 993,
-  "SSL": true
+  "SSL": true,
+  "Mailbox": "Payslips",
+  "LocalPayslipsPath": "C:\\Users\\Your.User\\Payslips"
 }
